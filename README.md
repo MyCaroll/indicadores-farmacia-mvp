@@ -15,3 +15,8 @@
 ## Como executar
 1. Instale as dependências: `pip install -r requirements.txt`
 2. Execute a aplicação: `python app.py`
+
+
+
+## Revisão de Código
+- Análise inicial de arquitetura e segurança concluída.
